@@ -4,7 +4,7 @@ description: 'Simple Pong game to play with an AI.'
 pubDate: '2020-05-23T01:22:34.123Z'
 heroImage: 'https://i.imgur.com/fB8eEOSl.jpg'
 categories: ['Unity']
-tags: ['C#']
+tags: ['C Sharp']
 author: '["pabloarak"]'
 ---
 
