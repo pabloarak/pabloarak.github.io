@@ -10,7 +10,7 @@ author: '["pabloarak"]'
 
 # Basic Pong Game for Android
 
-Simple Pong game to play with an AI.
+Simple Pong game ([Github](https://github.com/pabloarak/BasicPong)) to play with an AI.
 
 ## Stack
 
