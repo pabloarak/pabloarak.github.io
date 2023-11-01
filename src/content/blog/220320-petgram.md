@@ -11,5 +11,3 @@ author: '["pabloarak"]'
 PWA project ([Github](https://github.com/pabloarak/Petgram)) built with Webpack and developed with React.js. Styled Components was used for CSS and GraphQL for data management.
 
 ![Imgur](https://i.imgur.com/PftrcFul.png)
-
-The repository is in [Github](https://github.com/pabloarak/Petgram).
