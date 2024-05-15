@@ -1,10 +1,10 @@
 ---
-title: 'Go: Hola Mundo'
+title: 'Go: "Hello World"'
 description: 'Introducción al lenguaje de programación Golang'
 pubDate: '2024-05-15T01:32:34.123Z'
 heroImage: 'https://i.imgur.com/GEHuUVf.png'
 categories: ['Go']
-tags: ['Go',''Golang']
+tags: ['Go','Golang']
 authors: ['pabloarak']
 ---
 Hace poco me pidieron desarrollar una nueva funcionalidad en un proyecto desarrollado en Go. Nunca habia desarrollado en este lenguaje. Como apoyo hice "pair programming" con un compañero más experimentado en ello, y en paralelo decidí hacer un curso como complemento y compartir esta experiencia a través de distintas publicaciones. Asi que vamos allá:
@@ -71,7 +71,7 @@ Una vez terminada la instalación, Go estará listo para ser usado.
 
 # Primeras lineas de código.
 
-Vamos a crear nuestro primer programa en Go usando el clásico "Hola Mundo":
+Vamos a crear nuestro primer programa en Go usando el clásico "Hello World":
 
 1. Creamos la carpeta de nuestro proyecto y luego una subcarpeta llamada "src":
 ```sh
@@ -99,7 +99,7 @@ Luego declaramos la función principal que va a ejecutar el codigo y le agregamo
 package main
 
 func main(){
-  fmt.Println("Hola Mundo")
+  fmt.Println("Hello World")
 }
 ```
 Cabe destacar que al guardar el archivo, la extensión de Go de VSCode nos agregara la importación del paquete "fmt". Go nos obliga a tener buenas prácticas de código. Si no tuvieramos la extensión, para ordenar y formatear el código se utiliza el comando:
@@ -113,7 +113,7 @@ package main
 import "fmt"
 
 func main(){
-  fmt.Println("Hola Mundo")
+  fmt.Println("Hello World")
 }
 ```
 Compilamos nuestro código:
