@@ -5,7 +5,7 @@ pubDate: '2024-05-15T01:32:34.123Z'
 heroImage: 'https://i.imgur.com/GEHuUVf.png'
 categories: ['Go']
 tags: ['Go',''Golang']
-author: '["pabloarak"]'
+author: ['pabloarak']
 ---
 Hace poco me pidieron desarrollar una nueva funcionalidad en un proyecto desarrollado en Go. Nunca habia desarrollado en este lenguaje. Como apoyo hice "pair programming" con un compañero más experimentado en ello, y en paralelo decidí hacer un curso como complemento y compartir esta experiencia a través de distintas publicaciones. Asi que vamos allá:
 
