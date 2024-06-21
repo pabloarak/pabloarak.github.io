@@ -2,7 +2,7 @@
 title: 'Go: Ciclos, Condicionales y Keywords'
 description: 'Ciclos, Condicionales y Keywords'
 pubDate: '2024-06-19T11:12:34.123Z'
-heroImage: 'https://i.imgur.com/UazuP3U.png'
+heroImage: 'https://i.imgur.com/ZtD8zaR.png'
 categories: ['Go']
 tags: ['Go', 'Golang']
 authors: ['pabloarak']
@@ -152,7 +152,7 @@ func main() {
 }
 ```
 
-El "value" va a guarda el resultado de la conversión. Si existe un error, "err" va a ser "nil". Por ejemplo: si le agregamos un texto al método "Atoi", va a lanzar error.
+El "value" va a guarda el resultado de la conversión. Si existe un error, "err" va a ser distinto de "nil". Por ejemplo: si le agregamos un texto al método "Atoi", va a lanzar error.
 
 ## Switch
 
